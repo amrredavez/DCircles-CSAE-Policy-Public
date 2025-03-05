@@ -25,7 +25,6 @@ We will take swift action, including:
 ## 4. Moderation and Enforcement  
 We actively monitor and enforce compliance through:  
 
-- **Automated detection systems** to prevent the upload and sharing of CSAE-related content.  
 - **Manual review and user moderation** for reported violations.  
 - **Immediate removal** of illegal content and accounts involved in CSAE.  
 - **Cooperation with law enforcement agencies** and organizations such as **NCMEC (National Center for Missing & Exploited Children).**  
